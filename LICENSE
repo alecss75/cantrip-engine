@@ -1,0 +1,74 @@
+================================================================================
+LICENCIA DE CÓDIGO VISIBLE DE SOLO LECTURA Y AUDITORÍA (SOURCE-AVAILABLE)
+D&D RPG Engine (D&D 5e con IA Híbrida)
+================================================================================
+
+Copyright (c) 2025-2026 Alejandro Sansores Arjona ("alecss75").
+Contacto: alejandrosansoresarjona@gmail.com
+Todos los derechos reservados (All Rights Reserved).
+
+AVISO IMPORTANTE: Este software y su código fuente NO son "Open Source" ni
+"Software Libre" según las definiciones de la Open Source Initiative (OSI) o la
+Free Software Foundation (FSF). El código fuente se publica exclusivamente con
+fines de transparencia técnica, verificación de seguridad (arquitectura BYOK -
+Bring Your Own Key) y referencia educativa personal.
+
+1. CONCESIÓN LIMITADA DE DERECHOS (SOLO LECTURA Y EJECUCIÓN PERSONAL)
+Sujeto al cumplimiento estricto de los términos de esta Licencia, el Titular
+del Copyright concede a usted una licencia personal, revocable, no exclusiva,
+intransferible y sin regalías únicamente para:
+  a) Inspeccionar, leer y auditar el código fuente publicado en el repositorio
+     oficial para verificar la seguridad, privacidad y funcionamiento interno
+     del motor (incluyendo el manejo local de claves API).
+  b) Compilar y ejecutar el software localmente en su propio equipo para uso
+     estrictamente personal y no comercial.
+
+2. RESTRICCIONES EXPRESAS (LO QUE NO ESTÁ PERMITIDO)
+Salvo autorización previa y por escrito del Titular del Copyright, queda
+estrictamente PROHIBIDO:
+  a) Redistribuir: Publicar, subir, alojar, vender, alquilar, sublicenciar o
+     distribuir copias del código fuente o de binarios compilados a partir de
+     él en cualquier plataforma (incluyendo, sin limitación, Itch.io, Steam,
+     tiendas de aplicaciones o repositorios públicos de terceros).
+  b) Crear Obras Derivadas: Modificar, adaptar, traducir, realizar ingeniería
+     inversa con fines comerciales o publicar versiones modificadas ("forks"
+     públicos redistribuidos, mods comerciales o productos derivados) basados
+     total o parcialmente en este código o en su arquitectura de prompts.
+  c) Uso Comercial o SaaS: Utilizar el software o cualquiera de sus módulos
+     para ofrecer servicios en línea, servidores comerciales, APIs públicas o
+     productos monetizados.
+
+Nota sobre GitHub Forks: Aunque la plataforma GitHub permite técnicamente el
+botón "Fork" en repositorios públicos, la creación de un fork técnico en GitHub
+NO le otorga ningún derecho legal para redistribuir el software, publicar
+versiones modificadas ni eliminar este aviso de Copyright.
+
+3. AUSENCIA DE GARANTÍAS
+ESTE SOFTWARE SE PROPORCIONA "TAL CUAL" ("AS IS"), SIN GARANTÍA DE NINGÚN TIPO,
+EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIABILIDAD,
+IDONEIDAD PARA UN PROPÓSITO PARTICULAR E INCUMPLIMIENTO. EN NINGÚN CASO EL
+AUTOR SERÁ RESPONSABLE DE NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD DERIVADA
+DEL USO DEL SOFTWARE O DEL CONSUMO DE CUOTAS DE APIS DE TERCEROS CONFIGURADAS
+POR EL USUARIO.
+
+================================================================================
+AVISO DE ATRIBUCIÓN D&D 5e SYSTEM REFERENCE DOCUMENT (SRD 5.1)
+================================================================================
+
+Las reglas mecánicas base de Dungeons & Dragons 5.ª Edición, tablas de razas,
+clases, conjuros y estadísticas del SRD referenciadas en el directorio `src/srd/`
+son contenido derivado del System Reference Document 5.1:
+
+This work includes material taken from the System Reference Document 5.1 ("SRD 5.1")
+by Wizards of the Coast LLC and available at:
+https://dnd.wizards.com/resources/systems-reference-document
+
+The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International
+License available at:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Esta licencia CC-BY-4.0 aplica exclusivamente al contenido textual y tablas de
+reglas provenientes del SRD 5.1 de Wizards of the Coast LLC, y NO se extiende al
+código fuente original de este motor, su arquitectura de agentes de IA, su
+interfaz gráfica ni sus herramientas de persistencia, los cuales permanecen
+bajo el Copyright exclusivo de Alejandro Sansores Arjona.
