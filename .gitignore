@@ -1,0 +1,51 @@
+# Ambiente
+.env
+.env.*
+*.env
+!.env.example
+.venv
+venv/
+ENV/
+env/
+
+# Archivos de secretos/certificados
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs y datos sensibles (opcional si quieres versionarlos)
+logs/
+!logs/.gitkeep
+data/savegame*.json
+saves/
+exports/
+BUILD_INFO.json
+SHA256SUMS.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Artefactos de pytest
+pytest-of-*/
+.pytest_tmp/
+
+# Branding & marketing reviews
+branding_review/

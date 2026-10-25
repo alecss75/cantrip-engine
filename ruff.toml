@@ -1,0 +1,23 @@
+# Configuración de Ruff para el Repositorio de Auditoría Pública
+# Enfocado en reglas estándar de estilo y calidad de código (PEP8 / Flake8 / Pyflakes)
+
+target-version = "py311"
+line-length = 120
+
+[lint]
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # pyflakes (errores lógicos y variables/imports no usados)
+    "UP",  # pyupgrade (modernización de sintaxis Python 3.10+)
+]
+
+ignore = [
+    "E501",  # Longitud de línea
+    "E402",  # Module level import not at top (requerido por reconfigure y configuración temprana)
+    "W293",  # Blank line contains whitespace
+    "W291",  # Trailing whitespace
+]
+
+[lint.per-file-ignores]
+"__init__.py" = ["F401"]
