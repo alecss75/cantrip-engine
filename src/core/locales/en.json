@@ -1,0 +1,20 @@
+{
+  "common.collapse": "▲ Collapse",
+  "common.expand": "▼ Expand",
+  "common.close": "Close",
+  "common.close_esc": "Close (Esc)",
+  "common.cancel": "Cancel",
+  "common.save": "Save",
+  "common.accept": "OK",
+  "common.error": "Error",
+  "common.warning": "Warning",
+  "common.none": "None",
+  "common.yes": "Yes",
+  "common.no": "No",
+  "common.hero": "Hero",
+  "common.adventurer": "Adventurer",
+  "common.key_origin.ram": "Volatile RAM Memory",
+  "common.key_origin.keyring": "System Keyring (OS Keyring / DPAPI)",
+  "common.key_origin.env": "Environment Variables (.env)",
+  "common.key_origin.none": "Not configured"
+}
