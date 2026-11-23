@@ -1,0 +1,20 @@
+{
+  "common.collapse": "▲ Plegar",
+  "common.expand": "▼ Desplegar",
+  "common.close": "Cerrar",
+  "common.close_esc": "Cerrar (Esc)",
+  "common.cancel": "Cancelar",
+  "common.save": "Guardar",
+  "common.accept": "Aceptar",
+  "common.error": "Error",
+  "common.warning": "Aviso",
+  "common.none": "Ninguna",
+  "common.yes": "Sí",
+  "common.no": "No",
+  "common.hero": "Héroe",
+  "common.adventurer": "Aventurero",
+  "common.key_origin.ram": "Memoria RAM (Volátil)",
+  "common.key_origin.keyring": "Llavero del Sistema (OS Keyring / DPAPI)",
+  "common.key_origin.env": "Variables de Entorno (.env)",
+  "common.key_origin.none": "No configurada"
+}
